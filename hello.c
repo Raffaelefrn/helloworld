@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/* qual e' il tipo di ritorno di main()? */
-main()
+
+void main()
 {
   printf("hello world\n");
 
